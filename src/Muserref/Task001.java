@@ -1,4 +1,4 @@
 package Muserref;
 
-public class Task001 {
+public class Task001{
 }
